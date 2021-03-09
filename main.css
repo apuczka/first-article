@@ -1,0 +1,18 @@
+.main-container {
+    max-width: 960px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+}
+
+.main-content {
+    background-color: lightblue;
+}
+
+.sidebar {
+    background-color: beige;
+}
+
+.site-menu {
+    background-color: rgb(112, 85, 209);
+}
